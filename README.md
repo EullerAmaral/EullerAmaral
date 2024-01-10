@@ -1,4 +1,4 @@
-## Olá, pessoal! Me chamo Euller Amaral 👋🏼
+## Olá! Eu sou o Euller Amaral 👋🏼
 
 - 📗 Cursando Engenharia de Software
 - 🍎 Estudando o desenvolvimento de aplicativos iOS
