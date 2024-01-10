@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Euller Amaral 👋🏼
 
 - 📗 Cursando Engenharia de Software
-- 🍎 Estudando o desenvolvimento de aplicativos iOS
+- 🍎 Estudante de desenvolvimento iOS
 - 💻 Aluno da BackFront Academy
 - 🌎 Brasil / MG
 - 📩 Contato: eullergustavo63@gmail.com
