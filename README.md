@@ -25,3 +25,8 @@
   <a href="https://www.linkedin.com/in/euller-amaral-277a0b154/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://t.me/eulleramaral" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
 </div>
+
+# 🚀 Projetos:
+
+- Desenvolvimento de um site para uma empresa de seguros na Colômbia
+- Criação do aplicativo "Cálculo de IMC" na linguagem nativa iOS em Swift
