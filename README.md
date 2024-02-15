@@ -28,5 +28,5 @@
 
 # 🚀 Projetos:
 
-- Desenvolvimento de um site para uma empresa de seguros na Colômbia
+- Desenvolvimento de um site para uma empresa de seguros na Bolívia
 - Criação do aplicativo "Cálculo de IMC" na linguagem nativa iOS em Swift
