@@ -13,7 +13,7 @@
 </div>
 
 ##
-  
+### Linguagens utilizadas: 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg">
   <img align="center" alt="Rafa-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
